@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Puskar Thapa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puskarkaji&label=Profile%20views&color=0e75b6&style=flat" alt="puskarkaji" /> </p>
-- 🌱 I’m currently learning **React,Angular**,full stack web development**
+- 🌱 I’m currently learning **React,C#,full stack web development**
 
 
 
